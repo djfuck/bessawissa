@@ -2,7 +2,7 @@
 
 ## An F#-based IRC bot for announcing page titles of URLs
 
-Bessawissa is a simple IRC bot which joins to one predefined channel, listens for chat messages with URLs and retrieves corresponding page titles, which it messages back to the channel.
+Bessawissa is a simple IRC bot which joins to one predefined channel, listens for chat messages with URLs and all of them that are youtube links, will make bessawissa to send the page title to the channel.
 
 The bot is developed with [F#](https://fsharp.org/). Although the bot itself doesn't provide anything new to the world, it's a one-man attempt of trying to learn F# after years of experience in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)).
 

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "bessawissa": {
+      "commandName": "Project",
+      "commandLineArgs": "chat.freenode.net bessawissa #beswbot"
+    }
+  }
+}

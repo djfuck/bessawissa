@@ -11,3 +11,7 @@ The bot is developed with [F#](https://fsharp.org/). Although the bot itself doe
 The application should be a console executable, and receive settings from CLI args. The only settings I've considered as relevant are: nickname, server address and channel name. My only goal is to make it to join into a single channel in [IRCNet](https://en.wikipedia.org/wiki/IRCnet).
 
 The name comes from the German term "besserwisser" ("besser" = better, "Wisser" = knower), which means a know-it-all or wiseguy.
+
+### State of development
+
+Currently bessawissa outputs the title from a YouTube video page from a hard-coded URL. The IRC functionality is yet to be developed.
